@@ -2,7 +2,7 @@
 
 **Recruitment automation and applicant tracking** · Coldcode SI Labs, Harare, Zimbabwe
 
-> STPi hunts 76 job board families across 21 African markets every day, writes a cover letter and a tailored CV for every match, and sends only after a human taps approve.
+> STPi hunts 80 job board families across 21 African markets every day, writes a cover letter and a tailored CV for every match, and sends only after a human taps approve.
 
 STPi is an AI job-search and placement system for recruiters, career coaches and boutique agencies in Africa: it finds the vacancies, drafts the application in the advert's own language, and sends from the candidate's own mailbox once a person approves it.
 
@@ -16,7 +16,7 @@ Recruiters, career coaches and boutique placement agencies working in South Afri
 
 ### Hunt
 
-76 job board families and 115 endpoints, including unindexed social posts and newspaper PDFs, across 21 African markets.
+80 job board families and 121 endpoints, including unindexed social posts and newspaper PDFs, across 21 African markets.
 
 ### Draft
 
@@ -40,7 +40,7 @@ Persona cards, rubric-graded requirements backed by CV quotes, side-by-side comp
 
 ## What you get
 
-- Vacancies found daily across 76 board families and 115 endpoints
+- Vacancies found daily across 80 board families and 121 endpoints
 - A tailored cover letter and CV per match, never invented facts
 - One approval tap per send, from the candidate's own mailbox
 - Replies routed back to the recruiter and the candidate
@@ -79,7 +79,7 @@ Yes. The demo runs the full hunt, draft and PDF pipeline with one active candida
 
 **Which job boards does STPi search?**
 
-76 job board families over 115 endpoints, including PNet, CareerJunction, Careers24, Bizcommunity, iHarareJobs, VacancyMail, JobsZimbabwe, GoZambiaJobs, UNjobs and Impactpool, plus unindexed social posts and newspaper PDFs.
+80 job board families over 121 endpoints, including the employers' own ATS boards (Lever, Greenhouse, Ashby, Recruitee, Workable and Personio) alongside PNet, CareerJunction, Careers24, Bizcommunity, iHarareJobs, VacancyMail, JobsZimbabwe, GoZambiaJobs, UNjobs and Impactpool, plus unindexed social posts and newspaper PDFs.
 
 **Does STPi apply to jobs automatically?**
 
@@ -99,6 +99,6 @@ STPi is installable software: pip install the wheel and run it on your own machi
 
 ## Cite this
 
-_STPi — STPi hunts 76 job board families across 21 African markets every day, writes a cover letter and a tailored CV for every match, and sends only after a human taps approve. Source: https://stpi.whop.site_
+_STPi — STPi hunts 80 job board families across 21 African markets every day, writes a cover letter and a tailored CV for every match, and sends only after a human taps approve. Source: https://stpi.whop.site_
 
 Machine facts: https://stpi-v2.stpi-cloud.workers.dev/facts.json · Updated 2026-11-13
