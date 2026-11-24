@@ -1,0 +1,63 @@
+{
+ "schema": "estate-facts/1",
+ "updated": "2026-11-24",
+ "note": "Canonical mirror of every venture's machine-readable surface. Served from Cloudflare at the venture's own host; this repo is the versioned source and the CDN origin.",
+ "ventures": [
+  {
+   "slug": "stpi",
+   "facts": "ventures/stpi/facts.json",
+   "llms": "ventures/stpi/llms.txt",
+   "markdown": "ventures/stpi/index.md",
+   "sitemap": "ventures/stpi/sitemap.xml"
+  },
+  {
+   "slug": "tapstall",
+   "facts": "ventures/tapstall/facts.json",
+   "llms": "ventures/tapstall/llms.txt",
+   "markdown": "ventures/tapstall/index.md",
+   "sitemap": "ventures/tapstall/sitemap.xml"
+  },
+  {
+   "slug": "bidfold",
+   "facts": "ventures/bidfold/facts.json",
+   "llms": "ventures/bidfold/llms.txt",
+   "markdown": "ventures/bidfold/index.md",
+   "sitemap": "ventures/bidfold/sitemap.xml"
+  },
+  {
+   "slug": "proofhand",
+   "facts": "ventures/proofhand/facts.json",
+   "llms": "ventures/proofhand/llms.txt",
+   "markdown": "ventures/proofhand/index.md",
+   "sitemap": "ventures/proofhand/sitemap.xml"
+  },
+  {
+   "slug": "tightbucket",
+   "facts": "ventures/tightbucket/facts.json",
+   "llms": "ventures/tightbucket/llms.txt",
+   "markdown": "ventures/tightbucket/index.md",
+   "sitemap": "ventures/tightbucket/sitemap.xml"
+  },
+  {
+   "slug": "coldread",
+   "facts": "ventures/coldread/facts.json",
+   "llms": "ventures/coldread/llms.txt",
+   "markdown": "ventures/coldread/index.md",
+   "sitemap": "ventures/coldread/sitemap.xml"
+  },
+  {
+   "slug": "openpractice",
+   "facts": "ventures/openpractice/facts.json",
+   "llms": "ventures/openpractice/llms.txt",
+   "markdown": "ventures/openpractice/index.md",
+   "sitemap": "ventures/openpractice/sitemap.xml"
+  },
+  {
+   "slug": "kiln",
+   "facts": "ventures/kiln/facts.json",
+   "llms": "ventures/kiln/llms.txt",
+   "markdown": "ventures/kiln/index.md",
+   "sitemap": "ventures/kiln/sitemap.xml"
+  }
+ ]
+}

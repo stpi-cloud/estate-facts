@@ -1,0 +1,42 @@
+# Proofhand
+
+> Proofhand replaces image puzzles on sign-up, login and contact forms with an invisible proof-of-work check and one server-side verification.
+
+Proofhand is a CAPTCHA replacement: the visitor's browser solves a small proof-of-work challenge silently, the form carries a token, and the server verifies it once with a call shaped like reCAPTCHA's siteverify.
+
+Owner: Coldcode SI Labs, Harare, Zimbabwe.
+Storefront: https://proofhand.whop.site
+Markdown: https://attestos-v2.proofhand.workers.dev/index.md
+Facts (JSON): https://attestos-v2.proofhand.workers.dev/facts.json
+
+## What it does
+
+- Invisible challenge: A small proof-of-work check runs in the visitor's browser while the page loads.
+- Token on the form: The form carries a token the visitor never sees.
+- One verification: The server verifies the token once, with a request shaped like reCAPTCHA's siteverify.
+- Crawler policy: AI crawlers can be made to pay for access or stay out, deliberately.
+- Drops in: It replaces puzzles on sign-up, login and contact forms without a redesign.
+- Tiers: From a free tier to IntegrityRuntime, AgentPass, Hardware Gateway and Enterprise.
+
+## Prices
+
+- Proofhand: free, one-off — https://whop.com/checkout/plan_SwfArT3JFz5i7
+- Proofhand Enterprise: USD 299, month — https://whop.com/checkout/plan_Z3ZykM37fIu6E
+- Proofhand AgentPass Pro: USD 99, month — https://whop.com/checkout/plan_RKiOkAV8VJuc8
+- Proofhand Hardware Gateway Pro: USD 149, month — https://whop.com/checkout/plan_K1al5PKpXXcuN
+- Proofhand IntegrityRuntime Pro: USD 49, month — https://whop.com/checkout/plan_PkURo5bTOqjNk
+- Proofhand Free: free, one-off — https://whop.com/checkout/plan_Dethau2rAIceK
+
+## Questions
+
+- [What is Proofhand?](https://attestos-v2.proofhand.workers.dev/facts.json): Proofhand replaces image puzzles on sign-up, login and contact forms with an invisible proof-of-work check: the browser solves it silently, the form carries a token, and the server verifies that token once.
+- [Is Proofhand a CAPTCHA replacement?](https://attestos-v2.proofhand.workers.dev/facts.json): Yes. It does the same job as reCAPTCHA or hCaptcha without asking a real visitor to identify traffic lights, and the server-side verification call is shaped like reCAPTCHA's siteverify.
+- [How much does Proofhand cost?](https://attestos-v2.proofhand.workers.dev/facts.json): There is a free tier. IntegrityRuntime Pro is $49 a month, AgentPass Pro is $99 a month, Hardware Gateway Pro is $149 a month and Enterprise is $299 a month.
+- [Does it stop bots as well as a puzzle does?](https://attestos-v2.proofhand.workers.dev/facts.json): Bots that solve puzzles with paid services get through those puzzles anyway; a proof-of-work check costs a machine real computation while costing a person nothing.
+- [Will it work with my existing form?](https://attestos-v2.proofhand.workers.dev/facts.json): Yes. The change is a token on the form and one verification call on the server, so the form itself does not need redesigning.
+- [Can I charge AI crawlers instead of blocking them?](https://attestos-v2.proofhand.workers.dev/facts.json): Yes. Proofhand lets a site make crawlers either pay for access or stay out, instead of blocking all automation or allowing all of it.
+- [Is Proofhand accessible?](https://attestos-v2.proofhand.workers.dev/facts.json): It asks nothing of the visitor beyond submitting the form, so there is no visual or motor task to fail.
+
+## Citation
+
+Cite as: Proofhand — Proofhand replaces image puzzles on sign-up, login and contact forms with an invisible proof-of-work check and one server-side verification. (https://proofhand.whop.site)

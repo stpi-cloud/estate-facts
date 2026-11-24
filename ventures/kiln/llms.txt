@@ -1,0 +1,55 @@
+# KiLN
+
+> KiLN is an operating system for a university innovation hub. It holds cohorts, ventures, milestones with evidence, a
+> double-entry ledger, grants and staff roles in one system of record, and produces the donor reporting hubs assemble
+> by hand. A venture of Coldcode SI Labs, Harare, Zimbabwe.
+
+## What it is
+
+KiLN tracks who is in a hub, what they are building, what they have proved, where the money went and which grant paid
+for it. It replaces a spreadsheet, a WhatsApp group and a monthly scramble before a donor call.
+
+Eight areas share one record: hub operations, ventures, people, finance, governance, grants, marketing and
+infrastructure. The ledger is double-entry, so a grant can be followed from award to receipt line by line.
+
+## Who it is for
+
+University innovation hubs, incubators and TVET centres that run cohorts, hold grants and report to donors — the
+programme manager, the finance officer, the grant manager and the director who signs the report.
+
+## Price
+
+- KiLN Starter — $99 per month. One hub, one programme, up to 20 ventures, impact dashboard, PDF reports.
+- KiLN Growth — $299 per month. Unlimited programmes and cohorts, finance and grant management, donor reporting.
+- KiLN Institutional — $799 per month. Multi-campus, API access, white-label, single sign-on.
+- KiLN Implementation — $1,500–3,000 one-off. Migration from spreadsheets and WhatsApp, training, configuration.
+
+Prices are in USD. There is no checkout URL because the storefront is not open: KiLN is at pilot stage.
+
+## Two delivery models
+
+- **KiLN Cloud** — a licence key and a URL, one database per hub on Cloudflare, browser client with offline cache.
+- **KiLN Node** — an appliance image for a campus mini-PC. The university owns it and can air-gap it.
+
+They are the same system delivered two ways, not two products.
+
+## Status
+
+Pilot stage. The product is specified and priced; the first deployment is a pilot with one hub, and checkouts open when
+that pilot is agreed.
+
+## Machine-readable
+
+- Facts and prices: https://kiln.coldcode-si-labs.workers.dev/facts.json
+- Markdown version: https://kiln.coldcode-si-labs.workers.dev/index.md
+- Sitemap: https://kiln.coldcode-si-labs.workers.dev/sitemap.xml
+
+## Contact
+
+couragegarikai@atomicmail.io
+
+## Citation
+
+KiLN (Hub operations for university innovation centres) — KiLN keeps a university innovation hub's cohorts, ventures,
+milestones, money and grants in one system of record, and produces the donor reporting hubs assemble by hand. Coldcode
+SI Labs, Harare.
