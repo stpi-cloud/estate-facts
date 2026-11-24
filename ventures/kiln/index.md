@@ -1,53 +1,68 @@
-# KiLN — the operating system for a university innovation hub
+# Coldcode SI Labs — seven products, one studio
 
-KiLN is an operating system for an innovation hub attached to a university or TVET centre. It holds cohorts, ventures,
-milestones with evidence, a double-entry ledger, grants and staff roles in one database, and generates the impact report
-a donor will accept.
+> A software venture studio in Harare, Zimbabwe. It designs, tests and operates seven ventures and publishes the books that study them.
 
-## Who it is for
+Every product below has a storefront, a markdown page and a JSON fact file. Prices come from
+the live billing table.
 
-University innovation hubs, incubators and TVET centres that run cohorts, hold grants and report to donors: programme
-managers, finance officers, grant managers and directors.
+## Products
 
-## What you get
+### STPi — Recruitment automation and applicant tracking
 
-- Cohorts with programme type, capacity and dates
-- Ventures with an application trail and six statuses from applied to closed
-- Milestones from prototype to graduation, each with evidence and a named verifier
-- A double-entry ledger with fourteen categories and a grant reference on every line
-- Grants held against the venture and the ledger
-- Seven staff roles, from admin to donor-viewer
-- Impact and financial reports generated from the same record
+STPi hunts 80 job board families across 21 African markets every day, writes a cover letter and a tailored CV for every match, and sends only after a human taps approve.
 
-## Price
+- Storefront: https://stpi.whop.site
+- Facts: https://stpi-v2.stpi-cloud.workers.dev/facts.json
+- Prices: From $19 one-off.
 
-| Product | Price | Covers |
-|---|---|---|
-| KiLN Starter | $99 / month | One hub, one programme, up to 20 ventures, impact dashboard, PDF reports |
-| KiLN Growth | $299 / month | Unlimited programmes and cohorts, finance and grant management, donor reporting |
-| KiLN Institutional | $799 / month | Multi-campus, API access, white-label, single sign-on, dedicated onboarding |
-| KiLN Implementation | $1,500–3,000 one-off | Migration from spreadsheets and WhatsApp, training, configuration |
+### Tapstall — Online storefront and order rail for small shops
 
-## Two delivery models
+Tapstall gives a shop one link: the customer taps it, picks, and pays the exact amount, and the order lands in a dashboard the shop owns.
 
-**KiLN Cloud** — a licence key and a URL; one database per hub on Cloudflare; the browser client works offline and syncs
-when the connection returns.
+- Storefront: https://tapstall.whop.site
+- Facts: https://tapstall-v2.tapstall.workers.dev/facts.json
+- Prices: Free, then from $7 a month.
 
-**KiLN Node** — an appliance image for a mini-PC on the campus LAN. The university owns it and can air-gap it.
+### Bidfold — Tender discovery and bid tooling
 
-## Buy
+Bidfold reads 13 public tender sources every morning and puts what is open in your regions on one desk, beside 30 calculators for the sums that decide whether to bid.
 
-- [KiLN Starter](https://whop.com/checkout/plan_LOTHyHLMttjpG) — $99 / month
-- [KiLN Growth](https://whop.com/checkout/plan_QGyTRRrK0JHBd) — $299 / month
-- [KiLN Institutional](https://whop.com/checkout/plan_13LsHcT6VUhGn) — $799 / month
-- [KiLN Implementation](https://whop.com/checkout/plan_ALG7UwN1aLX8M) — $1,500–3,000 one-off
+- Storefront: https://bidfold.whop.site
+- Facts: https://deskos-v2.bidfold.workers.dev/facts.json
+- Prices: Free, then from $9 one-off.
 
-## Status
+### Proofhand — Bot mitigation and human verification
 
-Pilot stage: specified and priced, storefront not open. The first deployment is a pilot with one hub.
+Proofhand replaces image puzzles on sign-up, login and contact forms with an invisible proof-of-work check and one server-side verification.
 
-## Contact
+- Storefront: https://proofhand.whop.site
+- Facts: https://attestos-v2.proofhand.workers.dev/facts.json
+- Prices: Free, then from $49 a month.
 
-couragegarikai@atomicmail.io
+### TightBucket — Conversion leak auditing
 
-KiLN is a venture of Coldcode SI Labs, Harare, Zimbabwe.
+TightBucket finds the leaks costing you sales in about 20 seconds: slow pages, hidden shipping, long forms and email stuck in spam.
+
+- Storefront: https://tightbucket.whop.site
+- Facts: https://tightbucket-v2.tightbucket.workers.dev/facts.json
+- Prices: Free, then from $49 a month.
+
+### Coldread — Product audit and mechanism verification
+
+A five-day written audit at a fixed price: one careful visitor walks your live product the way a paying customer would and writes down what is real, what is not, and what to fix first.
+
+- Storefront: https://coldread.whop.site
+- Facts: https://coldread-store.pages.dev/facts.json
+- Prices: From $19 one-off.
+
+### Open Practice — Practical AI education
+
+Twenty practical AI build paths, 250 activities and 39 free tools, free, with no sign-up and work you keep.
+
+- Storefront: https://openpractice.whop.site
+- Facts: https://openpractice.open-practice.workers.dev/facts.json
+- Prices: Free, with no paid tier.
+
+## Citation
+
+Cite as: Coldcode SI Labs, Harare, Zimbabwe — seven software products: STPi, Tapstall, Bidfold, Proofhand, TightBucket, Coldread, Open Practice.
